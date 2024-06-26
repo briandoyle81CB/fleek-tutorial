@@ -1,0 +1,9 @@
+{
+  "sites": [
+    {
+      "slug": "some-pencil-straight",
+      "distDir": "out",
+      "buildCommand": "npm run build"
+    }
+  ]
+}

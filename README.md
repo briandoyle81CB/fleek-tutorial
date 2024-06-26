@@ -7,6 +7,8 @@
 
 # An Onchain app in 100 components (or less)
 
+CI/CD is live!!!
+
 An Onchain app in less than 100 components, and ready to be deployed to Vercel.
 
 To ensure all components work seamlessly, set the `NEXT_PUBLIC_CDP_API_KEY` in your `.env` file.
